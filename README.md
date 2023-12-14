@@ -1,5 +1,5 @@
 - 👋 Hi, welcome to my profile. 👦🏻 I’m Panagiotis Kosmas.
-- 🎓 I am studying Computer Science and Electrical Engineering @Aristotle University of Thessaloniki.
+- 🎓 Recent graduate from the School of Computer Science and Electrical Engineering @Aristotle University of Thessaloniki.
 - 👀 I’m interested in Mathematics, Programming and more specifically into Algorithms, Data Analysis, Machine Learning etc.
 - 🌱 I’m currently learning Machine Learning in Python and becoming familiar with useful frameworks.
 
