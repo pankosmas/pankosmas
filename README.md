@@ -1,4 +1,4 @@
-### Hi there, I'm Panagiotis Kosmas - Panos for short. <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/> <img align="center" src="https://komarev.com/ghpvc/?username=mpalaourg&label=Visitors&color=blue&style=plastic" alt="mpalaourg" height="20"/>
+### Hi there, I'm Panagiotis Kosmas - Panos for short. <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/> <img align="center" src="https://komarev.com/ghpvc/?username=pankosmas&label=Visitors&color=blue&style=plastic" alt="pankosmas" height="20"/>
 
 
 - 👋 Hi, welcome to my profile. 👦🏻 I’m Panagiotis Kosmas.
