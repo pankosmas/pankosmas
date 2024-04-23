@@ -1,3 +1,6 @@
+### Hi there, I'm Panagiotis Kosmas - Panos for short. <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/> <img align="center" src="https://komarev.com/ghpvc/?username=mpalaourg&label=Visitors&color=blue&style=plastic" alt="mpalaourg" height="20"/>
+
+
 - 👋 Hi, welcome to my profile. 👦🏻 I’m Panagiotis Kosmas.
 - 🎓 Recent graduate from the School of Computer Science and Electrical Engineering @Aristotle University of Thessaloniki.
 - 👀 I’m interested in Mathematics, Programming and more specifically into Algorithms, Data Analysis, Machine Learning etc.
