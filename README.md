@@ -31,7 +31,22 @@
 &ensp;&ensp;
 <a href="https://devdocs.io/c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="c" width="35" height="35"/></a>
 
-* ### Part2
+* ### Front-End Stack
+&ensp;&ensp;&ensp;&ensp;&ensp; 
+<a href="https://www.python.org" target="_blank"> <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" alt="html" width="40" height="40"/></a>
+&ensp;&ensp; 
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://toppng.com//public/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" alt="css" width="35" height="35"/></a>
+&ensp;&ensp; 
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="35" height="35"/></a>
+&ensp;&ensp; 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vhv.rs/dpng/d/524-5245981_react-js-logo-png-transparent-png-download.png" alt="react" width="35" height="35"/></a>
+&ensp;&ensp;
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png" alt="react native" width="35" height="35"/></a>
+&ensp;&ensp;
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-recta" alt="django" width="35" height="35"/></a>
+&ensp;&ensp;
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://image.pngaaa.com/387/4169387-middle.png" alt="django-rest" width="35" height="35"/></a>
+
 <!---
 pankosmas/pankosmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
