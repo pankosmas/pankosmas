@@ -3,7 +3,7 @@
 
 * 👋 Welcome to my profile. 
 * 🎓 Recent graduate from the School of Computer Science and Electrical Engineering @ Aristotle University of Thessaloniki.
-* 👀 I’m interested in Maths, Programming and more specifically into Data Science, Artificial Intelligence, Machine Learning and Deep Learning.
+* 👀 I’m interested in Maths, Programming and more specifically into Data Science, Artificial Intelligence, ML and DL.
 * 🌱 I’m currently practicing on Machine Learning in Python and becoming familiar with useful frameworks.
 * 🏠 **Thessaloniki, Central Macedonia, Greece.**
 * 🏢 **[@AuTh](https://www.auth.gr/en/), Thessaloniki, Greece.**
