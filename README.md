@@ -21,9 +21,9 @@
 &ensp;&ensp; 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="35" height="35"/></a>
 &ensp;&ensp; 
-<a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="35" height="35"/></a>
+<a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a>
 &ensp;&ensp; 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="35" height="35"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/></a>
 &ensp;&ensp;
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="35" height="35"/></a>
 &ensp;&ensp;
