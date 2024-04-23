@@ -43,9 +43,9 @@
 &ensp;&ensp;
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png" alt="react native" width="35" height="35"/></a>
 &ensp;&ensp;
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-recta" alt="django" width="35" height="35"/></a>
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="35" height="35"/></a>
 &ensp;&ensp;
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://image.pngaaa.com/387/4169387-middle.png" alt="django-rest" width="35" height="35"/></a>
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="django-rest" width="35" height="35"/></a>
 
 <!---
 pankosmas/pankosmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
