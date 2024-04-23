@@ -6,7 +6,7 @@
 * 👀 I’m interested in Mathematics, Programming and more specifically into Data Science, Artificial Intelligence, Machine Learning and Deep Learning.
 * 🌱 I’m currently practicing on Machine Learning in Python and becoming familiar with useful frameworks.
 * 🏠 **Thessaloniki, Central Macedonia, Greece.**
-* 🏢 **[@AuTh][https://www.auth.gr/en/], Thessaloniki, Greece.**
+* 🏢 **[@AuTh](https://www.auth.gr/en/), Thessaloniki, Greece.**
 
 ### Connect with me:
 <a href="https://linkedin.com/in/panagiotis-kosmas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
