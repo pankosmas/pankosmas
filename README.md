@@ -27,11 +27,11 @@
 &ensp;&ensp;
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="35" height="35"/></a>
 &ensp;&ensp;
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" alt="java" width="35" height="35"/></a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png" alt="java" width="35" height="35"/></a>
 &ensp;&ensp;
 <a href="https://devdocs.io/c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="c" width="35" height="35"/></a>
 &ensp;&ensp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/929/60/png-clipart-net-framework-c-net-core-software-framework-mono-studio-purple-studio-thumbnail.png" alt="c#" width="35" height="35"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Csharp_Logo.png" alt="c#" width="35" height="35"/></a>
 
 * ### Currently Mastering
 <!---
