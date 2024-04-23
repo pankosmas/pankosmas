@@ -45,7 +45,7 @@
 &ensp;&ensp;
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="35" height="35"/></a>
 &ensp;&ensp;
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="django-rest" width="35" height="35"/></a>
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest" width="35" height="35"/></a>
 
 <!---
 pankosmas/pankosmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
