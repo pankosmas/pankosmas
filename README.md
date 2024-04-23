@@ -30,10 +30,8 @@
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png" alt="java" width="35" height="35"/></a>
 &ensp;&ensp;
 <a href="https://devdocs.io/c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="c" width="35" height="35"/></a>
-&ensp;&ensp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="c#" width="55" height="55"/></a>
 
-* ### Currently Mastering
+* ### Part2
 <!---
 pankosmas/pankosmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
