@@ -33,7 +33,7 @@
 
 * ### Front-End Stack
 &ensp;&ensp;&ensp;&ensp;&ensp; 
-<a href="https://www.python.org" target="_blank"> <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" alt="html" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" alt="html" width="35" height="35"/></a>
 &ensp;&ensp; 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://toppng.com//public/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" alt="css" width="35" height="35"/></a>
 &ensp;&ensp; 
