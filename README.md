@@ -21,7 +21,7 @@
 <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://icon2.cleanpng.com/20180707/vrc/kisspng-javascript-programmer-logo-programming-language-program-logo-5b407df73d2561.1286828715309532072505.jpg" alt="java" width="40" height="40"/></a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" alt="java" width="40" height="40"/></a>
 <a href="https://devdocs.io/c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="c" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png" alt="c#" width="45" height="45"/></a>
 * ### Currently Mastering
