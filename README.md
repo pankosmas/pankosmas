@@ -31,7 +31,7 @@
 &ensp;&ensp;
 <a href="https://devdocs.io/c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="c" width="35" height="35"/></a>
 &ensp;&ensp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png" alt="c#" width="35" height="35"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/929/60/png-clipart-net-framework-c-net-core-software-framework-mono-studio-purple-studio-thumbnail.png" alt="c#" width="35" height="35"/></a>
 
 * ### Currently Mastering
 <!---
